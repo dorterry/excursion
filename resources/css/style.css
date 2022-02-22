@@ -16,6 +16,11 @@ body {
     color:white;
 }
 
+.header-sub {
+    font-size: 21px;
+    color:gray;
+}
+
 /* LINKS */
 .link {
     color:aquamarine;
